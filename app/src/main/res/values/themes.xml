@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose-only app: a plain platform theme without ActionBar is enough. -->
+    <style name="Theme.AssetCalc" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
