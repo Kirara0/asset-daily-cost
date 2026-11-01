@@ -2,7 +2,7 @@
 
 一个安卓端的小工具：记录物品、购买日期和购买金额，自动算出「截至今天，这件东西每天花了多少钱」。
 
-已构建好的安装包在 [GitHub Releases](https://github.com/Kirara0/asset-daily-cost/releases)（`AssetDailyCost-v1.0.apk`），直接下载安装即可；应用完全离线，数据只保存在手机本地。
+已构建好的安装包在仓库的 [`dist/AssetDailyCost-v1.0.apk`](https://github.com/Kirara0/asset-daily-cost/raw/main/dist/AssetDailyCost-v1.0.apk)，直接下载安装即可；应用完全离线，数据只保存在手机本地。
 
 ## 功能
 
@@ -79,7 +79,7 @@ asset-daily-cost/
 
 ## 下载安装
 
-1. 打开 [GitHub Releases](https://github.com/Kirara0/asset-daily-cost/releases)，下载 `AssetDailyCost-v1.0.apk`。
+1. 下载 [`dist/AssetDailyCost-v1.0.apk`](https://github.com/Kirara0/asset-daily-cost/raw/main/dist/AssetDailyCost-v1.0.apk)。
 2. 把 APK 传到安卓手机（Android 8.0 / API 26 及以上），点击安装。
 3. 系统提示“未知来源”时，允许当前文件管理器安装即可。
 

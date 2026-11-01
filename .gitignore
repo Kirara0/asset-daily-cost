@@ -10,7 +10,11 @@
 .cxx
 local.properties
 *.apk
+!dist/AssetDailyCost-v1.0.apk
 *.aab
 *.keystore
 .kotlin/
-dist/
+dist/*
+!dist/AssetDailyCost-v1.0.apk
+!dist/INSTALL.txt
+!dist/SHA256SUMS.txt
